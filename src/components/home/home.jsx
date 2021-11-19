@@ -36,6 +36,10 @@ function Home(){
                     <a href="https://huynham.github.io/dorsin-0911-home-nine/" target="_blank" >Dorsin Home nine <br/> Click Me !!!</a>
                 </div>
 
+                <div className="d10">
+                    <a href="https://huynham.github.io/dorsin-0911-song/" target="_blank" >Dorsin Home teen - wave <br/> Click Me !!!</a>
+                </div>
+
             </div>
         </section>
     )
